@@ -17,16 +17,21 @@ A Theater Reservation System contains 5 classes:
 5. Theater
 
 ReservationsService class
+
 1. Class ReservationService implements a reservation system for movie theaters that automatically places users in the most desirable seats available for their party.
 
 ReservationSystem class
+
 2. Class ReservationSystem, creates a theater and interacts with the user
 
 Row class
+
 3. Class Row, representing a row of the theater.
 
 Seat class
+
 4. Class Seat representing a seat of the row
 
 Theater class
+
 5.Class Theater, representing a theater

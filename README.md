@@ -34,4 +34,4 @@ Seat class
 
 Theater class
 
-5.Class Theater, representing a theater
+5. Class Theater, representing a theater
